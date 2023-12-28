@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>sparkle-test</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Wed, 27 Dec 2023 23:11:49 -0500</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/DEmpire412/sparkle-test/releases/download/Version1.0/sparkle-test.zip" length="954484" type="application/octet-stream" sparkle:edSignature="kjXtj+s5ryMwwdruMQI1u89kfdqRaQ4TNOOr8gLrR+GUA07YQJOMvz3N9ihVRfrpGQSeOgBDKLA9rk6kdOnEAQ=="/>
+        </item>
+    </channel>
+</rss>
